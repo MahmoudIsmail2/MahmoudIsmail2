@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mahmoud+Ismail;Software+Engineer+%7C+.NET+Developer" />
 </h1>
 
-<h3 align="center">Building Scalable Microservices with Clean Architecture | ASP.NET Core Specialist</h3>
+<h3 align="center">Full-Stack .NET & Angular Developer | Building Scalable Microservices with Clean Architecture</h3>
 
 <br/>
 
@@ -18,9 +18,10 @@
 🌱 **Expertise in:**
 - **Architecture:** Clean Architecture, Vertical Slice, CQRS, Domain-Driven Design
 - **Backend:** ASP.NET Core, C#, MediatR, Entity Framework Core
+- **Frontend:** Angular, HTML5, CSS3, JavaScript, Bootstrap
 - **Databases:** PostgreSQL, SQL Server, Elasticsearch
-- **Messaging:** RabbitMQ, Event-driven patterns
-- **Infrastructure:** Docker, Docker Compose, Redis, gRPC
+- **Messaging:** RabbitMQ, Event-driven patterns, gRPC
+- **Infrastructure:** Docker, Docker Compose, Redis, Kibana
 - **Tools:** Git, GitHub, Visual Studio, VS Code
 
 💬 **Ask me about:**
