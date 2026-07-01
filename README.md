@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mahmoud+Ismail;Software+Engineer+%7C+.NET+Developer" />
 </h1>
 
-<h3 align="center">Full-Stack .NET & Angular Developer | Building Scalable Microservices with Clean Architecture</h3>
+<h2 align="center">Full-Stack .NET & Angular Developer | Building Scalable Microservices with Clean Architecture</h2>
 
 <br/>
 
 <div align="center">
-<h2>
-Backend Software Engineer with 4+ years of experience** specializing in building enterprise-scale systems. I design and develop robust APIs, scalable microservices architectures, and high-performance distributed systems using modern technologies. Strong problem-solver passionate about clean code, system optimization, and delivering maintainable solutions that support long-term organizational growth.
+<h3>
+Backend Software Engineer with 4+ years of experience  specializing in building enterprise-scale systems. I design and develop robust APIs, scalable microservices architectures, and high-performance distributed systems using modern technologies. Strong problem-solver passionate about clean code, system optimization, and delivering maintainable solutions that support long-term organizational growth.
 
-</h2>
+</h3>
 ---
 
 🔭 **Currently building:** Microservices E-Commerce Platform with event-driven architecture
