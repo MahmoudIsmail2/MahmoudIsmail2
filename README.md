@@ -9,7 +9,10 @@
 <br/>
 
 <div align="center">
- 
+**Backend Software Engineer with 4+ years of experience** specializing in building enterprise-scale systems. I design and develop robust APIs, scalable microservices architectures, and high-performance distributed systems using modern technologies. Strong problem-solver passionate about clean code, system optimization, and delivering maintainable solutions that support long-term organizational growth.
+
+---
+
 🔭 **Currently building:** Microservices E-Commerce Platform with event-driven architecture
 - Catalog Service: Full-text search via Elasticsearch
 - Planned: Orders, Payment, User, Notification Services
